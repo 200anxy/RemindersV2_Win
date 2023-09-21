@@ -12,4 +12,5 @@ I have used Py2Exe Pip Module for quick conversion of python file to exe file
 Please log an issue if there is any!
 
 **PLEASE DO NOT CHANGE ANY OF THE FILE NAMES IN THIS PROJECT**
+
 **THERE IS A LARGE RISK OF COMPUTER CRASHING IF DONE SO**
