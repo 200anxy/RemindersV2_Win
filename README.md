@@ -5,4 +5,8 @@ then click submit
 after that the program appears to freeze DO NOT WORRY this is normal
 in specified time, notification will ping 
 FOR WINDOWS 8,9,10 and 11
-also keep in downloads folderafter downloading
+Please move the exe file to your desktop folder ( or anywhere else) for easy acess
+
+I have used Py2Exe Pip Module for quick conversion of python file to exe file
+
+Please log an issue if there is any!
