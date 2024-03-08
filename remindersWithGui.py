@@ -26,7 +26,7 @@ def getAllvalues():
 
     message = "Notification Placement is succesful. Please keep the tab in which you entered the details open!",
 
-    app_icon = r"C:\Users\Aadarsh Nair\Downloads\sucess_icon.ico",
+    app_icon = r".\sucess_icon.ico",
 
     timeout = 2,
 
@@ -35,7 +35,7 @@ def getAllvalues():
     notification.notify(
         title= titleOfnotification,
         message = contentNotification,
-        app_icon = "C:\\Users\\Aadarsh Nair\\Downloads\\alarm (2).ico",
+        app_icon = ".\alarm (2).ico",
         timeout = 10
         
     )
