@@ -1,4 +1,4 @@
-# RemindersV2_Win
+# RemindersV3_Win
 Reminder app for windows made with Python
 Just enter number for time on top and put the message on the bottom
 then click submit
