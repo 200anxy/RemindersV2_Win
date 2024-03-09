@@ -67,7 +67,7 @@ def getAllvalues():
     
     notification.notify(
         title="Notification Placement Successful! 😁",
-        message="Notification Placement is successful. Please keep the tab in which you entered the details open!",
+        message="Notification Placement is successful. You may close the window if you wish",
         app_icon=r".\assets\appIcon.ico",
         timeout=2
     )
