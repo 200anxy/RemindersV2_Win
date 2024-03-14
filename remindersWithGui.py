@@ -82,4 +82,5 @@ def getAllvalues():
     )
 
 threading.Thread(target=run_tkinter).start()
+
     
